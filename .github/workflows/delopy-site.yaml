@@ -34,7 +34,7 @@ jobs:
           npm install        
 
       - name: Build
-        run: hugo --minify
+        run: hugo --cleanDestinationDir --minify
       
       # push the generated content into the `built_page` branch.
       - name: Deploy to GitHub Pages

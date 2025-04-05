@@ -1,4 +1,4 @@
 baseURL = "https://Yucheng.github.io/"
 languageCode = "en-us"
 title = "Yucheng's Portfolio"
-theme = "hugo"  # or whatever theme you're using
+theme = ""  # or whatever theme you're using
