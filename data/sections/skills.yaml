@@ -1,0 +1,52 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+  - name: Python
+    #logo: /images/sections/skills/python.png
+    summary: "Used in multiple projects for algorithm development, data processing, and simulation. Experienced with libraries like pyTest and FastAPI."
+
+  - name: C++
+    #logo: /images/sections/skills/c++.png
+    summary: "Solid foundation in C++ for academic work in algorithms, data structures, and system-level programming."
+
+  - name: React
+    #logo: /images/sections/skills/react.png
+    summary: "Built dynamic, responsive web apps using React. Experience includes developing course apps and contributing to open-source note platforms."
+
+  - name: C#
+    #logo: /images/sections/skills/csharp.png
+    summary: "Used for game development in Unity. Developed educational algorithm games with integrated unit testing."
+
+  - name: Go
+    #logo: /images/sections/skills/go.png
+    summary: "Contributed to open-source projects using Go. Developed NoSQL backend logic and integrated local storage solutions."
+
+  - name: JavaScript
+    #logo: /images/sections/skills/javascript.png
+    summary: "Experienced with modern JavaScript in full-stack development. Used alongside React, HTML, and CSS for web projects."
+
+  - name: Git
+    #logo: /images/sections/skills/git.png
+    summary: "Proficient in Git for version control and collaboration. Regularly use GitHub for personal, academic, and open-source projects."
+
+  - name: Docker
+    #logo: /images/sections/skills/docker.png
+    summary: "Used Docker to streamline development and testing. Experience with containerizing apps and reducing environment setup time."
+
+  - name: Cloud (AWS & GCP)
+    #logo: /images/sections/skills/cloud.png
+    summary: "Deployed apps and simulations on AWS and Google Cloud Platform. Ensured scalability and efficient resource use."
+
+  - name: MongoDB
+    #logo: /images/sections/skills/mongodb.png
+    summary: "Worked with NoSQL databases in several web apps. Integrated MongoDB for dynamic course data management and backend logic."

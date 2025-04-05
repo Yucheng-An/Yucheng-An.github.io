@@ -1,0 +1,55 @@
+# section information
+section:
+  name: Projects
+  id: projects
+  enable: true
+  weight: 5
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+- name: All
+  filter: "all"
+- name: Professional
+  filter: "Professional"
+- name: Academic
+  filter: "Academic"
+- name: Hobby
+  filter: "Hobby"
+
+# your projects
+projects:
+- name: memos
+  # logo: /images/sections/projects/kubernetes.png
+  role: Contributor
+  timeline: "March 2024 - Present"
+  repo: "https://github.com/usememos/memos" # If your project is a public repo on GitHub, then provide this link. it will show star count.
+  url: "https://github.com/usememos/memos"  # If your project is not a public repo but it has a website or any external details url then provide it here. don't provide "repo" and "url" simultaneously.
+  summary: An open-source, lightweight note-taking solution. The pain-less way to create your meaningful notes. Your Notes, Your Way.
+  tags: ["Go","React","JavaScript","Professional"]
+
+- name: noisrucer
+  role: Developer
+  timeline: "Jun 2024 - Present"
+  repo: "https://github.com/Yucheng-An/noisrucer"
+  url: "https://github.com/Yucheng-An/noisrucer"
+  summary: Puzzle Game aimed at helping students better understand recursive backtracking
+  tags: ["Unity","C Sharp","Academic","Professional"]
+
+- name: handwritten-digit-recognition
+  role: Developer
+  timeline: "Oct 2024 - Present"
+  repo: "https://github.com/Yucheng-An/handwritten-digit-recognition"
+  url: "https://github.com/Yucheng-An/handwritten-digit-recognition"
+  summary: Using Python and TensorFlow to build a handwritten digit recognition system using the MNIST dataset.
+  tags: ["professional","Python", "Machine Learning","Academic"]
+
+- name: genetic-algorithm
+  role: Developer
+  timeline: "Sep 2023 - Dec 2023"
+  repo: "https://github.com/Yucheng-An/genetic-algorithm"
+  url: "https://github.com/Yucheng-An/genetic-algorithm"
+  summary: Using Genetic Algorithms to calculate 30 years of price data for S&P 500
+  tags: ["Academic","Genetic Algorithm","Python","Hobby"]
