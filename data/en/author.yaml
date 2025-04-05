@@ -1,0 +1,22 @@
+# some information about you
+name: "Yucheng An"
+nickname: "Andy"
+image: "images/author/c_author.png"
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "You got here! I am"
+# image: "images/author/author.png"
+# give your some contact information. they will be used in the footer
+contactInfo:
+  email: "yuc.an2019@gmail.com"
+  phone: "+1669-226-9647"
+  github: Yucheng-An
+  linkedin: yucheng-anandy
+
+# some summary about what you do
+summary:
+  - One Software Developer
+  - Good at Coding
+  - Full Stack Developer
+  - Solving Problems
+  - Working Open-Source
+  - Creating awesome things

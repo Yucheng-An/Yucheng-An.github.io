@@ -1,0 +1,64 @@
+section:
+  name: Education
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: false
+
+experiences:
+  - company:
+      name: University of the Pacific
+      url: "https://www.pacific.edu/"
+      location: Stockton, California, USA
+      #logo: 
+    positions:
+    - designation: Master's in Computer Science
+      start: Aug 2022
+      end: May 2025
+      responsibilities:
+      - Design and develop XYZ tool for ABC task
+      - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+      - Lead backend team.
+  
+  - company:
+      name: Samsung
+      url: "#"
+      location: Bengaluru, Karnataka
+      #logo: 
+    positions:
+    - designation: Product Development Engineer
+      start: Feb 2021
+      end: Sep 2021
+      responsibilities:
+      - Design and develop XYZ tool for ABC task
+      - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+      - Lead backend team.
+
+  - company:
+      name: Dell International Services
+      url: "#"
+      location: Bengaluru, Karnataka
+      #logo: 
+    positions:
+    - designation: Software Engineer-I
+      start: Jan 2019
+      end: Jan 2021
+      responsibilities:
+      - Design and develop XYZ tool for ABC task
+      - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+      - Lead backend team.   
+
+  - company:
+      name: Unikul Solutions Pvt Ltd
+      url: "#"
+      location: Bengaluru, Karnataka
+      #logo: 
+    positions:
+    - designation: Software Engineer-I
+      start: Jun 2018
+      end: Jan 2019
+      responsibilities:
+      - Design and develop XYZ tool for ABC task
+      - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
+      - Lead backend team. 
+    
