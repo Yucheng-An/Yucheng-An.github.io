@@ -1,21 +1,17 @@
-# Section information
 section:
   name: Education
   id: education
-  template: sections/education.html # use education-alt.html for another template
+  template: sections/education.html
   enable: true
-  weight: 2 # change the weight to reorder the sections
+  weight: 2
   showOnNavbar: true
-  # Can optionally hide the education in sections
-  # hideTitle: true
-
 degrees:
   - name: Master's in Computer Science
     icon: fa-solid fa-laptop-code
     timeframe: 2022-2025
     institution:
       name: University of The Pacific
-      url: "#"
+      url: "https://www.pacific.edu/"
     grade:
       scale: CGPA
       achieved: 4.0
